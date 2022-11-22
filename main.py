@@ -6,7 +6,7 @@ server = app.server
 
 app.layout = html.Div([
     html.H1('Exempel Kredit Dashboard Kreditkvalitet'),
-    html.H3('Marknadens bästa kreditavdelning ;-)'),
+    html.H3('Världens bästa kreditavdelning ;-)'),
 
     html.Div(
         [
