@@ -1,6 +1,8 @@
 from dash import Dash, html, dcc
 import dash
 
+# C:\Users\sme03\AppData\Local\heroku
+
 app = Dash(__name__, use_pages=True)
 server = app.server #
 
